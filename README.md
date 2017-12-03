@@ -100,6 +100,5 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
-### Grading
-
-This assignment will be graded via peer assessment.
+### Hospital Ranking Scripts
+The scripts 'rankall.R' and 'rankhospital.R' are scripts that were created as part of this project.  They function to rank hospitals across the USA in terms of their treatment and mortality records regarding three diseases.  Their precise functions are explained further within the scripts themselves.
